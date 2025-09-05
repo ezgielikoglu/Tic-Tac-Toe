@@ -21,11 +21,7 @@ python src/play_human_vs_ai.py
 Kullanım
 
 Terminalde oyunu başlat ve AI ile karşılıklı oyna.
-
-4. **Commit changes** ile kaydet.
-
 ### Lokal olarak düzenleyip push etmek
-
 ```powershell
 # README.md'yi düzenle (Notepad veya VSCode ile)
 git add README.md
